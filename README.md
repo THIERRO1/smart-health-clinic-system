@@ -32,6 +32,9 @@ A full-stack Java Spring Boot application for managing patient queues and e-pres
 3. Run `mvn spring-boot:run`  
 4. Access at `http://localhost:8080`
 
+<img width="410" height="266" alt="image" src="https://github.com/user-attachments/assets/3f036358-ac41-4631-8762-80f31f853f3d" />
+
+
 ## Docker
 
 To run with Docker:
